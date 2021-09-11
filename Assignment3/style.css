@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background-color: #EFE3D0;
+}
+
+.top-container{
+  height: 40px;
+  background-color: #3B0000;
+}
+
+p{
+  margin: 0;
+  padding-top: 8px;
+}
+
+a:link,a:visited{
+  color: black;
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.logo{
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
+.login{
+  padding-left: 20%;
+  display: inline;
+}
+
+.menu{
+  padding-left: 500px;
+}
+
+footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   height:30px;
+   width: 100%;
+  color:white;
+  background-color: #3B0000;
+  text-align: center;
+}
